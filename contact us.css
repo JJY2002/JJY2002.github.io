@@ -1,0 +1,59 @@
+.navbar-brand img
+{
+	height: 75px;
+	padding-left: 50px;
+}
+.navbar-nav
+{
+	padding-left: 100px;
+}
+.navbar-nav .nav-link
+{
+	font-family: 'Sen';
+	font-weight: bold;
+	font-size: 20px;
+}
+.navigationcolor
+{
+	background-color: #F4CF66;
+}
+.bannertitle
+{
+	font-size: 65px;
+}
+.sitebanner
+{
+	background-image: url("banner.png");
+}
+.sitebanner2
+{
+	background-image: url("gaming rig.png");
+	background-position: center;
+}
+.boxes
+{
+	background-color: #FEF9EC;
+}
+.box
+{
+	border: solid 2px;
+	margin: 0 80px 0 80px;
+	background-color: #FFFFFF;
+}
+.section2
+{
+	background-color: #F4CF66;
+}
+.phoneno
+{
+	font-size: 30px;
+}
+.circle-button
+{
+	border: solid 1px;
+	border-color: black
+}
+body
+{
+	font-family: 'Sen';
+}

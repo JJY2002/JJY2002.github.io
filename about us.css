@@ -1,0 +1,73 @@
+body
+{
+	font-family: 'Sen';
+}
+
+.navbar-brand img
+{
+	height: 75px;
+	padding-left: 50px;
+}
+.navbar-nav
+{
+	padding-left: 100px;
+}
+.navbar-nav .nav-link
+{
+	font-family: 'Sen';
+	font-weight: bold;
+	font-size: 20px;
+}
+.navigationcolor
+{
+	background-color: #F4CF66;
+}
+
+.small-text
+{
+	font-size: 75px;
+}
+
+.big-text
+{
+	font-size: 250px;
+}
+
+.bold-text
+{
+	font-weight: bold;
+	font-size: 60px;
+}
+
+.paragraph
+{
+	font-size: 30px;
+}
+
+.paragraph2
+{
+	font-size: 30px;
+	margin-left: 50px;
+	padding-left: 25px;
+	border-left: solid 1px;
+}
+
+.text-container
+{
+	width: 80%;
+	margin: auto;
+}
+
+.text-container2
+{
+	width: 80%;
+	margin: auto;
+	border-top: solid 1px;
+	border-color: #808080;
+	padding-top: 10px;
+}
+
+.text-container2 p
+{
+	font-size: 30px;
+}

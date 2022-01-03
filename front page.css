@@ -1,0 +1,40 @@
+.navbar-brand img
+{
+	height: 75px;
+	padding-left: 50px;
+}
+.navbar-nav
+{
+	padding-left: 100px;
+}
+.navbar-nav .nav-link
+{
+	font-family: 'Sen';
+	font-weight: bold;
+	font-size: 20px;
+}
+.navigationcolor
+{
+	background-color: #F4CF66;
+}
+.bannertitle
+{
+	font-size: 65px;
+}
+.sitebanner
+{
+	background-image: url("banner.png");
+}
+.sitebanner2
+{
+	background-image: url("gaming rig.png");
+	background-position: center;
+}
+.boxes
+{
+	background-color: #FEF9EC;
+}
+body
+{
+	font-family: 'Sen';
+}
